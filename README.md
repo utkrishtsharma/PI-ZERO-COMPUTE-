@@ -1,9 +1,9 @@
 # PI-ZERO-COMPUTE-
 Raspberry pi zero 1.4 INCH LCD COMPUTER 
 <div style="display: flex; justify-content: space-around;">
-    <img src="images/1.jpg" alt="Hardware Setup 1" style="width: 30%; height: auto;"/>
-    <img src="images/2.jpg" alt="Hardware Setup 2" style="width: 30%; height: auto;"/>
-    <img src="images/3.jpg" alt="Hardware Setup 3" style="width: 30%; height: auto;"/>
+    <img src="images/1.jpg" alt="Hardware Setup 1" style="width: 500px; height: 500px;"/>
+    <img src="images/2.jpg" alt="Hardware Setup 2" style="width: 500px; height: 500px;"/>
+    <img src="images/3.jpg" alt="Hardware Setup 3" style="width: 500px; height: 500px;"/>
 </div>
 # Raspberry Pi LCD HAT Implementation
 
