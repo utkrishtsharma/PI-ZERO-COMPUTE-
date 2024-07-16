@@ -1,5 +1,5 @@
 # PI-ZERO-COMPUTE-
-Raspberry pi zero 1.4 INCH LCD COMPUTER 
+<h1>Raspberry pi zero 1.4 INCH LCD LUNIX COMPUTER </h1>
 <div style="display: flex; justify-content: space-around;">
     <img src="5.png" alt="Hardware Setup 2" style="width: 150px; height: 100px;"/>
     <img src="4.png" alt="Hardware Setup 3" style="width: 150px; height: 100px;"/>
